@@ -9,3 +9,6 @@ ________________________________________________________________________________
 2. If you come up with the correct answer you win.
 3. However, if you pick the wrong letter you lose a life. You have total 6 tries.
 4. If you use all your lives you lose.
+________________________________________________________________________________________________________________
+
+The coding is in Vanilla Javascript.
