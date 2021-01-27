@@ -3,6 +3,9 @@
 Can you guess the programming language and save a friend?
 It's a simple game I promise.
 
+Simply download the hangman folder and open index.html.
+
+
 Rules are as follows.
 ________________________________________________________________________________________________________________
 1. Choose a letter from a to z.
